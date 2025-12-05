@@ -1,0 +1,57 @@
+00:00 Hi, I'm Shil, good morning. How are you? Good morning. I'm good, what about you? I'm also good. Great.  
+00:12 So, can we start the call of which we are connected today? So, basically, my name is Harsit Raju.  
+00:20 And I'm a senior data analyst there. I also work on the AI board, like LLM and our future. I have a lot of expertise.  
+00:29 I have around 2.5 years of experience from my side. Great, great to hear that. So we need, like you, as you are really aware of this particular thing, like where we need a product.  
+00:53 So, that product can create an MOM, minutes of meeting. And based on that, the Gera ticket can be created automatically.  
+01:01 Right? So, for that purpose, we are looking for a person who can fulfill our requirements to create this particular product and can help our team members and the firm to grow further, to remove the unnecessary and wasted time. So, that we can run Pailale with the AI updates on a daily basis.  
+01:28 So, can you just let me know more about your expertise and about your technical background, what you have done so far in these years, and how are you going to help us in this particular product?  
+01:43 So, as you said that you need to transfer the MOM from the meeting set to the app.  
+01:50 So, first of all, we have a new subscription in that, and then you know there is an option in the room which is transferred where you have a lot of money.  
+02:00 So, from that concept, we are able to generate the MOMs through Python and the AI models. And if I go technically on this, then from the transcript that we generate from the Lumetix, after that we have to do some technical tasks like removing the fillers or removing the data for the transcript.  
+02:24 After the cleaning of the data, we have to move into, like, the chunking of the sentences, you know. There are a lot of sentences in the past; we have to just focus on the main sentence, so just to break it down.  
+02:37 After that, we have to do the grammar fixing. Like, there are some sentences which have been broken, and you do not have to show some little density with the type of OpenAI and LLM models.  
+02:48 After that, we have to clean past it from the Lumetix. After that, we need to assign the speaker to the Lumetix.  
+02:53 There are a lot of transcripts available in the Lumetix, but if we don't know the speakers to set up what line.  
+03:05 So, we need to do this technically, like assigning the speakers, the speaker to the bottom, the speaker to. After assigning the speaker, we have a process that has a speaker tag available, and with that help, we can generate the, ehm, and in ehm, I can provide any options like some of the mutiny that  
+03:24 we have and extract the action items like what are the actions needed to be taken from the speaker to the bottom of the speaker to do, and the third options, decisions like what are the decisions that have been needed in the mutiny, and the last one is questions, what are the questions that have  
+03:43 been asked in the mutiny from the speaker to the bottom of the speaker to do. So, this is the technical aspect of what we are doing, and we can extract these amounts from the room, the room transfer, and the amount should be in exchange for the moment, maybe in the period for the moment.  
+04:00 Great. Since, like, frankly, I don't have any technical expertise on this, and that's why we are going to hire a person who can just fulfill our comments.  
+04:14 So, I would like to just give me a brief overview about the past projects which we have done and your provisional career and how can I have that link with this particular product connection.  
+04:27 I have done a lot of projects in the past, like, in the 5 years of experience, I have wanted to go to Austria, and I have wanted to have a lot of creative tools.  
+04:36 And for the current aspect, which you need, like, everyone from the project, if I talk about the virtual aspect, then you would say that we have a room with you, and after that, we have frosted available in that room building.  
+04:48 So, we just extracted frosted from the room, and after a lot of cleaning, and after a lot of technical issues in the next, can I just read that I'm a one, then that we have finally, that we will provide it in the community of all the way to the next room.  
+05:04 Thanks. How should, can you just, like, give me a brief or simpler way of explanation? Like, I think there are certain tools available in the market which are going to help me directly if we don't hire any person and if we don't.  
+05:20 Can you just tell me about the products, those products, which can help me directly if we don't hire any person, or like, those tools you can let me know about these tools which can help you and me in developing this product?  
+05:37 So, you know, the process that I define in your area is mostly for only the new project which we already have, and we will automate it using OpenAI like a structure of that project and at the beginning and like generating the amounts; these all are artificial intelligence tasks.  
+06:04 We don't do anything manually. This will generate automatically. And if you say about tools, then we are using to use the LLM models, large language models, and at the currently GPT-4 OMBY, whatever that is, even more so popular of that, and GPT-4 OMBY and in OpenAI, which is  
+06:25 basically a great tool for this approach. And so, these are the technical tools that we are going to use, and we don't need any manual assignation of here; we are going to just generate these automatically.  
+06:40 Actually, can you just explain a little bit more about the LLM models? Because I don't have any understanding of that particular thing, how that's going to work, or how it is useful to our product.  
+06:49 LLM models, basically, these are large language models. What they do is, if we have a lot of things to do, like, we just want to automate anything, then we use these LLM models, large language models, which are very, very efficient in the simulation of a long process, and the extra  
+07:11 key points from the deposit. These are the models that are currently used by the characteristics between, which is like GPT-4 and GPT-4, I mean, and current.  
+07:20 Can you actually be using 3D-5.1.1? So doing, like, chat, 3D-5.1 version is embedded with that LLM model, right?  
+07:23 We are going to have a bad head. So, like, do we need to purchase any membership for the plants for these kinds of accounts, or?  
+07:38 We have to purchase an open account for which G.I.D. is using these models. We mean, we need to get a subscription also, and we also need the new product.  
+07:47 Constitution where we have a certain recordings of my opinion. Can you just tell me about this thing, like how much these tools are constantly so that I have that particular knowledge and can manage my resources and plan everything about it?  
+08:04 So basically, the OpenAI users will be around, for the 10 million, it will be around 0.01...  
+08:11 And for the room subscription, I think this is around 10,000,000,000,000,000,000,000. Something like that. You see that gonna cost me around 15 dollars, maximum out of 20 dollars maximum for both of the tools, right?  
+08:31 Cool. Can you just let me go through about this, the architecture, how you're gonna do this and what else requirement you need from our site to make this possible?  
+08:47 Like, how you're gonna put this, what will be the structure of this architecture? Like, what will be the main architecture of this particular product?  
+08:54 And where are these things going to be stored and where we can extract the details later on if we decline?  
+09:01 As I said before, for the expectation of transit, we are just using our money, and we can just go from our site.  
+09:09 And if you say we're going to store this folder across the door at the moment, and we have to, we have a post address; we are going to put this folder.  
+09:20 And if you say how your employees are going to get these MOS, then we just need to unit ID or maybe we can say the ID of the meeting that they had. After that meeting, we get that unit ID, and it would just have to copy-paste that meeting ID into our database.  
+09:40 Then we can easily generate that MOS from that meeting. Cool. So like this will be stored for an LOS number of periods, right? Or like there is any limitation like after a certain period of time we need to remove all the data?  
+09:59 So will you? So like for example, if for example, like from last month we are just running this product and we are saving the minutes of meeting in the database.  
+10:11 And so like after how many days we need to clean the database or the tables? This is maybe around after 30 days we are running clean the database.
+10:24 So, that is... Fine. So, like, what will the deadline be like? By how many days would it take to complete this product? It doesn't mean that this product is making it right.  
+10:37 So, it could hold if we go out the moment. It should be around one month to complete this whole project.  
+10:45 Good. Like, so this will be the first stage where we are going to generate the minutes of the meeting.  
+10:58 And we are meeting in this one month regarding the automation of the ticket creations and the Jira. All like we are going to take it on the next stage.  
+11:09 So, basically, we have to divide the whole architecture into two phases, like the first phase will be generated in the atmosphere, and the second phase will be generated in the future.  
+11:20 So, we have to focus on the first task. After that, we will move into the second phase, which is like generating the Jira tickets from that M1.  
+11:28 So, like, do we have any idea about that particular thing? How the Jira tickets will be created, or probably just a thing?  
+11:34 We should be able to talk to our team for that. And we need to do a lot of research for that.  
+11:44 And I'm going to get it back to this in the next week... Sounds good then. So, that's it. I have only these types of questions we need to be asked from you, and I'm satisfied with the solutions which you have provided.  
+12:00 That is based on your expertise and based on your experience, and I'm happy to, like, start this particular creation of this development of this product as soon as possible.  
+12:10 So, I need to just have the final confirmation from my management. And once I get the confirmation, I'm going to revert you back over the email so that we can start working on it.  
+12:21 Thanks. Thanks so much for your valuable time. Have a nice day. Thank you. Thank you. Bye.

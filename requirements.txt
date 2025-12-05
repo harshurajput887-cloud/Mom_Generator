@@ -1,0 +1,10 @@
+nltk
+pandas
+numpy
+transformers
+openai
+python-dotenv
+python-docx
+pandas
+reportlab
+fpdf2

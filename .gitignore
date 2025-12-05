@@ -1,0 +1,5 @@
+.env
+mom_venv
+mom_venv/
+__pycache__/*
+__pycache__/
